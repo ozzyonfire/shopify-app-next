@@ -1,4 +1,4 @@
-# Shopify App Template - Next.js
+# Shopify App Template - Next.js Pages Router
 
 This is a template for building a [Shopify app](https://shopify.dev/apps/getting-started) using Next.js and Typescript. It contains the basics for building a Shopify app. This template was modified from the original example node app to use a single Next.js native application.
 
@@ -51,8 +51,6 @@ The first two variables are automatically populated by the Shopify CLI.
 - ⬜ Billing checks in `/api/auth/verify`
 - ⬜ Add the Shopify types for Graphql and Typescript (using graphql-codegen)
 - ⬜ Prune excess leftover unused code
-- ⬜ Remove the exitiframe.tsx page (unused)
-- ⬜ Update project to use the new `/apps` directory from Next.js
 
 ## Benefits
 
